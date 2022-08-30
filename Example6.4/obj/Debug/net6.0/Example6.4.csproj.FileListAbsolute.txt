@@ -1,0 +1,15 @@
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\bin\Debug\net6.0\Example6.4.exe
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\bin\Debug\net6.0\Example6.4.deps.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\bin\Debug\net6.0\Example6.4.runtimeconfig.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\bin\Debug\net6.0\Example6.4.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\bin\Debug\net6.0\Example6.4.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\obj\Debug\net6.0\Example6.4.csproj.AssemblyReference.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\obj\Debug\net6.0\Example6.4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\obj\Debug\net6.0\Example6.4.AssemblyInfoInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\obj\Debug\net6.0\Example6.4.AssemblyInfo.cs
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\obj\Debug\net6.0\Example6.4.csproj.CoreCompileInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\obj\Debug\net6.0\Example6.4.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\obj\Debug\net6.0\refint\Example6.4.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\obj\Debug\net6.0\Example6.4.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\obj\Debug\net6.0\Example6.4.genruntimeconfig.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.13. Lesson 6\Example6.4\obj\Debug\net6.0\ref\Example6.4.dll
